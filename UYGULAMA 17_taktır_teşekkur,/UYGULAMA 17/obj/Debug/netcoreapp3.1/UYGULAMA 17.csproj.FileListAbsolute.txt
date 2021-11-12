@@ -1,0 +1,16 @@
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\bin\Debug\netcoreapp3.1\UYGULAMA 17.exe
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\bin\Debug\netcoreapp3.1\UYGULAMA 17.deps.json
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\bin\Debug\netcoreapp3.1\UYGULAMA 17.runtimeconfig.json
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\bin\Debug\netcoreapp3.1\UYGULAMA 17.runtimeconfig.dev.json
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\bin\Debug\netcoreapp3.1\UYGULAMA 17.dll
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\bin\Debug\netcoreapp3.1\UYGULAMA 17.pdb
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA 17.csproj.AssemblyReference.cache
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA_17.Form1.resources
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA 17.csproj.GenerateResource.cache
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA 17.AssemblyInfoInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA 17.AssemblyInfo.cs
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA 17.csproj.CoreCompileInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA 17.dll
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA 17.pdb
+C:\Users\ARDA KIRPAN\Desktop\EXTRA\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 17_taktır_teşekkur,\UYGULAMA 17\obj\Debug\netcoreapp3.1\UYGULAMA 17.genruntimeconfig.cache
